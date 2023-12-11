@@ -1,7 +1,7 @@
 const projects = [
   {
-    id: 'uyudane',
-    name: 'uyudane',
+    id: 'react',
+    name: 'React',
     path: 'facebook/react',
     slug: 'facebook-react',
   },
@@ -12,7 +12,7 @@ const projects = [
     path: 'sveltejs/svelte',
     slug: 'sveltejs-svelte',
   },
-  { id: 'next', name: 'uyudane.js', path: 'zeit/next.js', slug: 'zeit-nextjs' },
+  { id: 'next', name: 'Next.js', path: 'zeit/next.js', slug: 'zeit-nextjs' },
   { id: 'nuxt', name: 'Nuxt.js', path: 'nuxt/nuxt.js', slug: 'nuxt-nuxtjs' },
   {
     id: 'gatsby',
