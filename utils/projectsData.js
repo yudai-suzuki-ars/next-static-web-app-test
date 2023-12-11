@@ -1,6 +1,6 @@
 const projects = [
   {
-    id: 'react',
+    id: 'uyudane',
     name: 'React',
     path: 'facebook/react',
     slug: 'facebook-react',
